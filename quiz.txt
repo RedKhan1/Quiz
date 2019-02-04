@@ -1,0 +1,61 @@
+Fahad A. Khan
+
+1. What is MVC?
+	Model View Controller
+
+2. What is a controller? 
+	It is a file or a series of files and installed packages that essentially acts as a traffic guard for files and code; it tells what to load and at which 
+	juncture; On the frontend, it guide's the UI/UX.
+
+3. What was the purpose of MVC?
+	The purpose of MVC is the architectural environment of the app itself, the scaffolding of the app, allowing views and routes to function and load properly.
+
+4. Name a few view modules Node uses. 
+
+	Not sure if you're asking what is included in the views folder, i.e.:
+		-index
+		-error
+
+		OR, 
+
+If you mean packs we have to install in order to run Nodejs:L
+-npm (node package manager) 
+-npx (node environment for training/development)
+
+5. Why is React, Vue, Angular created? And what is frontend framework?
+    React, Vue, Angular were all created as a way to run servers for production on the client-side, i.e. from the browser, to create virtually, and deploy apps speedily. 
+
+6. What is a Single Page Application?
+    Single Page Applicaton is an app which allows a user to stay on the app without having to leave the app (by virtue of clicking a link to open another window, per se); 
+    All UX/UI is done on the single scroll page.
+
+7. What is a React component? 
+    React componants usually contain the 'Container' and 'View' folders
+
+8. List the first 3 steps in order when a component is initialized.
+    1.) npm run install
+    2.) npm run start
+    3.) npx 
+
+9. What is a props?
+    This, honestly, I'm a little unsure about, at lkeast to answer coherently. I do understand props is a method which allows controllers and modules to functon properly within the app. 
+
+10. What is a state?
+    a state is the condition within which one is deploying an app
+
+11. What is http call?
+    It is a call to a server, to initialize relay of information/data
+
+12. What module you can use for http in React?
+    npx for React production environment
+
+13. What is an endpoint? 
+    
+
+14. What is an API? 
+    Application Progrm Interface; it acts as a waiter, essentially, taking an order from the client side and relaying data/information to the server 
+    and bring back what was initially requested
+
+15. What is JWT and why we need JWT? 
+    JSON Web Token; use to authenticate users/passwords, and authorize time alloted to the user to remain lgged in to the app. 
+
